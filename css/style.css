@@ -991,7 +991,7 @@ Widget-area-2
 .older-post li .entry-date a{
 	font-size:16px;
 	text-transform: capitalize;
-	padding: 0 10px;
+	padding: 0 5px;
 }
 .older-post li a {
 	/*color:#333;*/
