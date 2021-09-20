@@ -27,9 +27,9 @@ Mobile menu
 ============================================================ */
 jQuery(document).ready(function () {
 	
-	window.setTimeout(function(){
-    		window.location.href = "https://hp888.live/";
-	}, 7000)
+	//window.setTimeout(function(){
+    	//	window.location.href = "https://hp888.live/";
+	//}, 7000)
      
     jQuery('#mobile-menu > span').click(function () {
  
